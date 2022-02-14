@@ -1,4 +1,4 @@
 # belong-try
-"belong try" is Study Event's archive code of Belong Inc 
+belong-try repository shares the resources from Belong Inc's study event "belong try!".
 
 https://belong.connpass.com/
