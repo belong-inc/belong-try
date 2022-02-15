@@ -1,6 +1,7 @@
 # What is this?
 
-This project code is VSCode Extension's hello world by [belong_try#1](https://belong.connpass.com/event/236782/).
+This project code created by [belong_try#1](https://belong.connpass.com/event/236782/). 
+This code is "Hello World & Snippet" code.
 
 # How to create?
 
@@ -18,5 +19,7 @@ yo code
 
 # Reference
 
-Your First Extension (Visual Studio Code's official web site)
-https://code.visualstudio.com/api/get-started/your-first-extension
+We referred to the official website.
+
+* [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+* [Snippet Guide](https://code.visualstudio.com/api/language-extensions/snippet-guide)
