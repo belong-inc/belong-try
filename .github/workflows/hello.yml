@@ -22,3 +22,6 @@ jobs:
           cmds: |
             project update
             do hello
+
+      - name: cat
+        run: cat ./dagger/hello-world.txt
