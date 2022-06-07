@@ -18,7 +18,7 @@ jobs:
         with:
           version: 0.2.16
           # To pin external dependencies, you can use `project update github.com/[package-source]@v[n]`
+          workdir: ./dagger/
           cmds: |
-            project init
             project update
             do hello
